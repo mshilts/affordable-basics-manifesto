@@ -195,7 +195,7 @@ That means:
 - `150` taxed hours earn the monthly maximum of `1.2` months of bridge coverage
 - partial work still earns proportionate protection with no monthly cliff
 
-This is a better bridge rule than the looser earlier version. A worker can still build meaningful protection through steady work, but the bank no longer fills so quickly that the bridge starts to look like a second standing entitlement. The `150`-hour ceiling still rewards strong work months while preventing unusually high-hour periods from turning into unlimited bank-building.
+This bridge rule lets a worker build meaningful protection through steady work without letting unusually high-hour periods turn into unlimited bank-building. The `150`-hour ceiling still rewards strong work months while keeping the bridge visibly temporary.
 
 The political and administrative point should stay explicit: this is earned continuity protection, not an unlimited new entitlement. The bank is real, but it is capped, time-limited, and tied to taxed work history.
 

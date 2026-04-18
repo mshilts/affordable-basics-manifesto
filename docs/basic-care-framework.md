@@ -270,7 +270,7 @@ The framework should rely on existing professional standards where possible rath
 
 ## California Cost and Financing
 
-The financing discussion belongs after the package and operating model are clear. Under the preferred hierarchy, the question is no longer whether California can replace the full cost of routine care with a single new state payment stream. The question is narrower: what residual financing does California need in order to guarantee one universal, zero-cost basic-care floor while existing private coverage and Medi-Cal remain primary where they already apply?[1][2][3][4][5][6][8][9][10]
+The financing discussion belongs after the package and operating model are clear. California should guarantee one universal, zero-cost basic-care floor while existing private coverage and Medi-Cal remain primary where they already apply. The state financing question is therefore straightforward: what dedicated revenue is needed to cover the residual liability that remains after those existing financing streams stay in place?[1][2][3][4][5][6][8][9][10]
 
 ### Basic-Care Fund
 
@@ -282,7 +282,7 @@ The framework should establish a **basic-care fund** dedicated to backing the un
 - the fund should have a stable, visible revenue source rather than depending on ad hoc annual patching
 - a statewide sales-tax increment is a plausible financing mechanism because it is broad-based, automatic, and legible
 
-The core principle is simple: universal basic care should have its own visible financing stream, but California should use existing financing first where it already exists instead of replacing it unnecessarily.
+The core principle is simple: universal basic care should have its own visible financing stream, and California should use existing financing first where it already exists.
 
 ### Gross package value versus state financing need
 
@@ -306,7 +306,7 @@ That estimate is built from the following illustrative components:
 
 This is a planning estimate anchored to current California population, observed primary-care utilization, current state spending patterns, California birth volume, California pharmacy spending, and a deliberately narrow clinical package.[1][2][3][4][5][6][9] The administrative, fraud-control, and reserve allowances are deliberately non-zero rather than assuming those costs away.[9][11]
 
-That figure should now be read as the value of the full basic-care basket, **not** as the direct annual state financing requirement. Under the preferred financing doctrine, California would not pay every covered basic-care claim first. Existing private coverage and Medi-Cal would remain primary where they already govern, and the state fund would backstop the universal zero-cost floor.
+That figure is the value of the full basic-care basket, **not** the direct annual state financing requirement. Existing private coverage and Medi-Cal remain primary where they already govern, and the state fund backs the universal zero-cost floor.
 
 ### Existing spending already inside the system
 
@@ -320,16 +320,13 @@ California already pays for much of this same basic-care basket through private 
 | Medi-Cal | $11.7 billion |
 | **total current overlapping spending** | **$29.5 billion** |
 
-That overlap matters more under the preferred financing model than it did under a state-first claims model.
-
 The framework should therefore assume:
 
 - California should preserve **Medi-Cal** financing wherever federal matching rules and existing eligibility already apply
 - California should preserve existing **private-insurance** financing for covered basic-care claims wherever commercial coverage already governs
 - California should use the **basic-care fund** to eliminate patient cost sharing and close residual gaps so the universal baseline remains real
-- California should retire the old full-replacement framing and stop describing the program as if the state treasury must newly absorb the full gross value of the package
 
-That means the state financing task becomes narrower and more defensible. California is financing residual liability, not replacing the whole routine-care economy.
+That means California is financing residual liability, not replacing the whole routine-care economy.
 
 The state's real financing responsibilities are:
 
@@ -338,24 +335,30 @@ The state's real financing responsibilities are:
 3. administering the statewide covered-code system, registry, claims routing, fraud control, and payment reconciliation
 4. maintaining a visible reserve so payment remains stable through downturns and revenue swings
 
-That is still a serious obligation, but it is materially smaller than a model in which the state simply replaces all existing payment streams for basic care.
+That is still a serious obligation, but it is much smaller than the gross value of the full basket.
 
 Private-insurance savings still matter under this approach. A large share of routine outpatient spending currently carried through premiums, claims, and cost sharing would be standardized into the universal basic-care floor, which should still reduce pressure on employers and households over time.[3][8][9]
 
-### Planning implication
+### State financing estimate
 
-The finance section should no longer anchor readers on the old gross-to-sales-tax translation. That framing belonged to a state-first payment model, and this document no longer endorses that model.
+Using the figures above, the implied residual state financing need is:
 
-The better planning rule is:
+- **$33.8 billion** gross annual package value
+- minus **$29.5 billion** in retained private and Medi-Cal financing
+- equals about **$4.3 billion** in annual state basic-care liability
 
-- treat **$33.8 billion** as the gross value of the basket, not the state bill
-- treat existing private and Medi-Cal spending as the starting financing base that remains in place
-- size the state fund around uninsured claims, wrap liability, administration, and reserves
-- use a dedicated revenue stream sized to that residual liability rather than to the full gross package value
+That residual figure covers the state's role as defined in this framework:
 
-That means the financing requirement should come down **substantially** from the earlier full-replacement frame. The right next estimate is not a new gross number. It is a residual-liability actuarial estimate built around payer-of-record hierarchy, uninsured utilization, wrap exposure, and administrative load.
+- uninsured covered basic-care claims
+- wrap payments needed to hold patient cost sharing at zero
+- statewide administration, claims routing, fraud control, and registry costs
+- reserve contribution
 
-Until that residual estimate is built, this document should not present a new headline sales-tax figure as if the answer were already precise. The important correction at the framework level is simpler: the direct California financing burden is far lower than the old full-replacement model implied.
+Using California's current sales-tax base, one statewide sales-tax point raises about **$9.0 billion per year**.[10]
+
+That implies a planning financing requirement of about **0.48 sales-tax points**. For policy design, California should round that to a dedicated **0.5 percentage-point statewide sales-tax increment** for the basic-care fund, which would raise about **$4.5 billion per year** and leave a modest cushion for reserve build and utilization variance.
+
+That is the clean proposal this framework should carry: universal basic care in California should be financed with roughly **half a cent of statewide sales tax**, while private coverage and Medi-Cal remain primary where they already apply.
 
 ### Reserve policy
 
@@ -390,7 +393,6 @@ This document still leaves two kinds of work ahead.
 ### Implementation work
 
 - how the basic-care fund should be sized once the state is funding residual basic-care liability rather than paying the full gross basket first
-- what the residual-liability actuarial model shows once uninsured use, wrap exposure, and retained Medi-Cal/private financing are modeled directly
 - how California should report access, participation, continuity, administrative simplicity, fiscal durability, and quality once the program is operational
 - whether and how California should eventually capture part of the private-insurance savings created by the basic-care layer without making this document depend on that assumption
 
