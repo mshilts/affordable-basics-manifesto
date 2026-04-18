@@ -59,8 +59,8 @@ This framework is governed by a few simple rules:
 
 ## Read Next
 
-- `docs/federal-framework.md`
-- `docs/california-framework.md`
-- `docs/healthcare-framework.md`
-- `docs/basic-care-framework.md`
-- `docs/earned-healthcare-continuity-insurance-framework.md`
+- [Federal Framework](docs/federal-framework.md)
+- [California Framework](docs/california-framework.md)
+- [Healthcare Framework](docs/healthcare-framework.md)
+- [Basic Care Framework](docs/basic-care-framework.md)
+- [Earned Healthcare Continuity Insurance Framework](docs/earned-healthcare-continuity-insurance-framework.md)
