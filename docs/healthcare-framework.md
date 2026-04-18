@@ -10,6 +10,8 @@ Those layers are related, but they solve different policy problems and should be
 
 They also do **not** replace Medi-Cal. Medi-Cal remains the primary federal-state public insurance program for Californians who already qualify for it. The purpose of this framework is to add a universal baseline below the current patchwork and a work-earned continuity layer above that floor without making the entire architecture depend on a wholesale rewrite of Medi-Cal eligibility.
 
+For services inside the defined basic-care package, the financing doctrine should also stay clear: basic care is universal for the patient, but existing private coverage and Medi-Cal remain financially primary where they already apply, and the state basic-care fund closes the remaining gap so covered basic care still presents as one zero-cost baseline.
+
 In the California version of the framework, that continuity layer is positioned first as a bridge model: an earned, time-limited major-medical backstop for periods when ordinary coverage fails.
 
 > Basic care is universal. Medi-Cal stays primary where it already applies. Earned healthcare continuity insurance protects the household when ordinary coverage fails and neither Medi-Cal nor adequate private coverage fills the gap.
@@ -33,6 +35,7 @@ That document explains:
 - what sits outside the basic-care package
 - pregnancy and family inclusion
 - basic-care financing and administration
+- the primary-payer rule for private coverage and Medi-Cal inside the universal basic-care layer
 - provider participation, pricing, fraud controls, and quality safeguards
 
 ## Earned Healthcare Continuity Insurance

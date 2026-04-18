@@ -21,6 +21,8 @@ In plain terms, this document argues for a basic-care layer that would:
 - use a generics-only outpatient drug rule by default
 - operate with simple statewide rules and broad provider participation
 - keep patient cost sharing at zero for covered basic-care services
+- keep existing private coverage and Medi-Cal financially primary for covered basic-care claims where they already apply
+- use the state basic-care fund to close the remaining gap so the patient still sees one universal zero-cost baseline
 - route more complex or expensive care into higher-acuity systems rather than pretending the baseline can absorb everything
 - estimate the California fiscal requirement only after the package and operating model are clear
 
@@ -178,6 +180,19 @@ That means:
 
 If the framework wants the basic-care layer to function as real civic infrastructure, it should not ask households to stop and calculate whether a routine primary-care visit is worth the cash at the point of use.
 
+### Financing Doctrine For Covered Basic-Care Claims
+
+Basic care should be universal in **entitlement and patient experience**, but not necessarily state-primary for every dollar of financing.
+
+The cleaner doctrine is:
+
+- the patient gets the same defined basic-care package regardless of insurance category
+- the patient owes zero out of pocket for covered basic-care services
+- existing **private coverage** and **Medi-Cal** remain financially primary for covered basic-care claims where they already apply
+- the **basic-care fund** closes the remaining gap and pays when no other primary payer applies
+
+That approach preserves the universal promise without turning the program into a needless replacement of financing streams that already exist. It also sharply reduces the direct state financing burden compared with a model in which the state simply pays every covered basic-care claim first and sorts the rest out later.
+
 ### Basic-Care Drug Layer
 
 The universal basic-care layer should include a limited essential outpatient drug list tied to the conditions and services covered by the basic-care package. The governing rule for this framework is that the basic-care drug layer is **generic-first and generics-only by default**.[6][7]
@@ -259,17 +274,19 @@ The financing discussion belongs after the package and operating model are clear
 
 ### Basic-Care Fund
 
-The framework should establish a **basic-care fund** dedicated to paying covered basic-care claims.
+The framework should establish a **basic-care fund** dedicated to backing the universal basic-care promise.
 
-- covered basic-care claims are paid from the fund regardless of the patient's insurance category
+- the fund should pay covered basic-care claims directly when no other primary payer applies
+- the fund should wrap covered basic-care claims where existing private coverage or Medi-Cal leaves patient cost sharing, uncovered residual amounts, or payment gaps inconsistent with the universal zero-cost rule
+- the fund should support claims routing, reconciliation, and clean payment under one statewide basic-care definition
 - the fund should have a stable, visible revenue source rather than depending on ad hoc annual patching
 - a statewide sales-tax increment is a plausible financing mechanism because it is broad-based, automatic, and legible
 
-The core principle is simple: universal basic care should have its own visible financing stream.
+The core principle is simple: universal basic care should have its own visible financing stream, but California should use existing financing first where it already exists instead of replacing it unnecessarily.
 
 ### Illustrative 2025 California build
 
-Using the package defined in this document, a reasonable California planning estimate for the annual **gross** cost of universal basic care is about **$33.8 billion per year** under the framework's generics-only drug rule.
+Using the package defined in this document, a reasonable California planning estimate for the annual **gross value** of the universal basic-care package is about **$33.8 billion per year** under the framework's generics-only drug rule.
 
 That estimate is built from the following illustrative components:
 
@@ -285,13 +302,15 @@ That estimate is built from the following illustrative components:
 | fraud control, audit, and residual leakage | $0.7 billion |
 | wellness, condition management, and care coordination | $1.2 billion |
 | reserve contribution for downturns and sales-tax volatility | $1.2 billion |
-| **gross annual total** | **$33.8 billion** |
+| **gross annual package value** | **$33.8 billion** |
 
 This is a planning estimate anchored to current California population, observed primary-care utilization, current state spending patterns, California birth volume, California pharmacy spending, and a deliberately narrow clinical package.[1][2][3][4][5][6][9] The administrative, fraud-control, and reserve allowances are deliberately non-zero rather than assuming those costs away.[9][11]
 
-### Current spending already inside the system
+That figure should now be read as the value of the full basic-care basket, **not** as the same thing as the direct annual state financing requirement. Under the preferred financing doctrine, California would not pay every covered basic-care claim first. Existing private coverage and Medi-Cal would remain primary where they already govern, and the state fund would backstop the universal zero-cost floor.
 
-The gross cost is not the same thing as the **net new** financing requirement.
+### Existing spending already inside the system
+
+The gross package value is not the same thing as the **direct state financing requirement**.
 
 California already pays for much of this same basic-care basket through private insurance and Medi-Cal. A reasonable overlap estimate is:
 
@@ -301,25 +320,34 @@ California already pays for much of this same basic-care basket through private 
 | Medi-Cal | $11.7 billion |
 | **total current overlapping spending** | **$29.5 billion** |
 
-For the purpose of this framework, the financing assumption should be conservative:
+That overlap matters more under the preferred financing model than it did under a state-first claims model.
 
-- California should treat the overlapping **Medi-Cal** spending as a planning offset only to the extent the state can redirect it through Medicaid-compatible implementation, approved federal arrangements, or explicit state replacement funding
-- California should **not** assume that overlapping Medi-Cal dollars are automatically or immediately free to repurpose
-- California should **not** assume it can automatically recapture private-insurance spending
-- on that planning assumption, the working **state-budget net new requirement** remains about **$22.1 billion per year**
+The framework should therefore assume:
 
-Private-insurance savings still matter even when they are not counted as state revenue. On this estimate, the basic-care layer would remove about **$17.8 billion per year** of routine spending from the private side of the system. That is large cost relief for employers and households that currently finance those services through premiums, claims, and cost sharing. A substantial share of that relief should accrue to self-insured employers, because they now bear much of the routine outpatient spending that the basic-care layer would absorb.[3][8][9]
+- California should preserve **Medi-Cal** financing wherever federal matching rules and existing eligibility already apply
+- California should preserve existing **private-insurance** financing for covered basic-care claims wherever commercial coverage already governs
+- California should use the **basic-care fund** to eliminate patient cost sharing and close residual gaps so the universal baseline remains real
+- California should not describe the program as if the state treasury must newly absorb the full gross value of the package
+
+That means the state financing task becomes narrower and more defensible: fund the uninsured basic-care basket, wrap gaps left by existing payers, administer the statewide code set and claims system, and preserve a visible reserve. It is still a serious financing obligation, but materially smaller than a model in which the state simply replaces all existing payment streams for basic care.
+
+Private-insurance savings still matter under this approach. A large share of routine outpatient spending currently carried through premiums, claims, and cost sharing would be standardized into the universal basic-care floor, which should still reduce pressure on employers and households over time.[3][8][9]
 
 ### Sales-tax calibration
 
-Using California's current statewide sales-tax structure, the fiscal translation is roughly:
+Using California's current statewide sales-tax structure, the fiscal translation is still helpful as an upper-bound reference:
 
-- one statewide sales-tax point raises about **$9.0 billion per year**
-- the **gross** generics-only basic-care estimate of **$33.8 billion** implies about **3.8 sales-tax points**
-- after assuming recapture of overlapping **Medi-Cal** spending but not private-insurance spending, the working **net new** estimate is about **$22.1 billion**
-- that implies roughly **2.5 sales-tax points**[10]
+- one statewide sales-tax point raises about **$9.0 billion per year**[10]
+- the **gross annual package value** of about **$33.8 billion** implies that a pure state-first model would be extremely expensive
 
-This is the cleaner planning assumption for the document. It treats overlapping public spending as a real planning offset, but not as money California can simply grab without legal and operational work. It also treats private-coverage savings as a separate economic gain rather than as automatic state revenue. The result is still materially lower healthcare cost pressure for employers, especially self-insured employers, because a significant share of the routine care they currently finance would move into the universal basic-care layer.
+But under the preferred financing doctrine, California should **not** treat the gross package value as the same thing as the sales-tax amount it must newly raise. The actual state requirement would depend on:
+
+- how much uninsured basic-care use the fund directly pays
+- how completely Medi-Cal-compatible financing can be preserved inside the basic-care structure
+- how the state wraps or reconciles private-insurance claims for covered basic-care services
+- how much administrative and reserve capacity the final model requires
+
+That is a materially lower burden than full state-first payment, but it requires a dedicated actuarial estimate built around the payer-of-record hierarchy rather than the simpler gross-package model.
 
 ### Reserve policy
 
@@ -337,7 +365,7 @@ Universal basic care works only if it stays narrow, clear, and honest about its 
 
 This framework does not promise to make every form of healthcare free. It promises a real universal baseline for ordinary life: primary care, prevention, maternal care, pediatric basics, routine mental health, routine chronic management, urgent outpatient care, and a limited generics-only drug layer. It leaves emergency, hospital, specialty, and other high-acuity costs outside the baseline rather than hiding them inside an unsustainable promise.
 
-That is the standard the document should hold: California should guarantee ordinary care universally and stop pretending that the same baseline must also carry the full burden of specialty and hospital finance.
+That is the standard the document should hold: California should guarantee ordinary care universally, use existing private and Medi-Cal financing first where they already apply, and stop pretending that the same baseline must also carry the full burden of specialty and hospital finance.
 
 ## Open Questions
 
@@ -349,10 +377,11 @@ This document still leaves two kinds of work ahead.
 - which outpatient generics belong on the final essential list
 - how the state should set and periodically revise the California adjustment factor above Medicare
 - what reserve ratio should govern the basic-care fund
+- how private-insurance and Medi-Cal primary-payment rules should be standardized so the patient still sees one universal basic-care experience
 
 ### Implementation work
 
-- how the basic-care fund should be sized and how a sales-tax revenue stream should be calibrated as taxable sales change over time
+- how the basic-care fund should be sized once the state is funding residual basic-care liability rather than paying the full gross basket first
 - how California should report access, participation, continuity, administrative simplicity, fiscal durability, and quality once the program is operational
 - whether and how California should eventually capture part of the private-insurance savings created by the basic-care layer without making this document depend on that assumption
 

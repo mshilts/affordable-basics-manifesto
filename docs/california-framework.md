@@ -87,6 +87,7 @@ This document keeps healthcare at the summary level. For the fuller architecture
 **California priorities:**
 - Define the statewide basic-care package and keep it universal
 - Establish the basic-care fund and a bridge-first earned healthcare continuity insurance model
+- Keep existing private coverage and Medi-Cal financially primary for covered basic-care claims where they already apply, with the basic-care fund closing the remaining gap
 - Contract regional administrators while preserving broad qualified-provider participation
 - Keep ordinary primary, preventive, maternal, and urgent basic care easy to access and simple to bill
 - Build a simple earned bridge for non-basic care when ordinary coverage fails during voluntary transitions, involuntary transitions, or coverage cliffs
