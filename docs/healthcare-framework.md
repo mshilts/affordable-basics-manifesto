@@ -25,7 +25,7 @@ The operating hierarchy should be stated just as plainly:
 
 The universal healthcare baseline is defined in:
 
-- `docs/basic-care-framework.md`
+- [Basic Care Framework](basic-care-framework.md)
 
 That document explains:
 
@@ -39,7 +39,7 @@ That document explains:
 
 The broader work-earned continuity layer beyond basics is defined in:
 
-- `docs/earned-healthcare-continuity-insurance-framework.md`
+- [Earned Healthcare Continuity Insurance Framework](earned-healthcare-continuity-insurance-framework.md)
 
 That document explains:
 
@@ -61,8 +61,8 @@ That document explains:
 
 For healthcare, the clean reading order is:
 
-1. `README.md`
-2. `docs/basic-care-framework.md`
-3. `docs/earned-healthcare-continuity-insurance-framework.md`
+1. [Core README](../README.md)
+2. [Basic Care Framework](basic-care-framework.md)
+3. [Earned Healthcare Continuity Insurance Framework](earned-healthcare-continuity-insurance-framework.md)
 
 The federal and California framework documents then summarize those two layers at the jurisdictional level, while treating Medi-Cal as the public backbone California has to build around.

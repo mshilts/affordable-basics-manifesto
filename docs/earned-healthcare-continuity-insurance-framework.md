@@ -7,7 +7,7 @@ It exists to protect households against emergency, hospital, specialty, and othe
 
 It is not private insurance and it is not comprehensive public insurance. It is a disciplined continuity backstop: real protection against serious medical risk during coverage disruption, clear limits on what is covered, and a structure durable enough to govern.
 
-This document should be read after `docs/basic-care-framework.md`.
+This document should be read after the [Basic Care Framework](basic-care-framework.md).
 
 ## Introduction
 

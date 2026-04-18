@@ -64,7 +64,7 @@ Agricultural finance, trade, insurance, and logistics are national systems. Stat
 
 The federal government cannot design every state delivery network, but it does control major payment systems, insurance frameworks, and the basic legal architecture of healthcare finance.
 
-This document keeps healthcare at the summary level. The detailed architecture is split between `docs/basic-care-framework.md` and `docs/earned-healthcare-continuity-insurance-framework.md`.
+This document keeps healthcare at the summary level. The detailed architecture is split between the [Basic Care Framework](basic-care-framework.md) and the [Earned Healthcare Continuity Insurance Framework](earned-healthcare-continuity-insurance-framework.md).
 
 **Federal priorities:**
 - Establish clear, comparable pricing rules for common services so patients, employers, and states can see real costs

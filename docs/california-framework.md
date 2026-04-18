@@ -82,7 +82,7 @@ California controls many of the conditions that determine whether farming remain
 
 California can do far more on basic healthcare access and coverage continuity than on total healthcare redesign. The state should focus on building a workable universal basic-care layer, creating simple administration, and keeping ordinary care from spilling into more expensive settings. For non-basic risk, California should start with a bridge model rather than pretend it can immediately replace the whole public insurance structure.
 
-This document keeps healthcare at the summary level. For the fuller architecture, see `docs/basic-care-framework.md` for the universal baseline and `docs/earned-healthcare-continuity-insurance-framework.md` for the earned continuity bridge.
+This document keeps healthcare at the summary level. For the fuller architecture, see the [Basic Care Framework](basic-care-framework.md) for the universal baseline and the [Earned Healthcare Continuity Insurance Framework](earned-healthcare-continuity-insurance-framework.md) for the earned continuity bridge.
 
 **California priorities:**
 - Define the statewide basic-care package and keep it universal
