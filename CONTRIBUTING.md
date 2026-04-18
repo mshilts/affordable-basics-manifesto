@@ -1,42 +1,52 @@
 # Contributing to the Affordable Basics Economic Framework
 
-Thank you for your interest in contributing to this economic policy framework! We welcome thoughtful feedback, suggestions, and improvements from the community.
+Thank you for your interest in contributing to this policy framework. This guide assumes work happens through the GitHub repository, and all document references below are repo-relative. The repository now has a core document plus companion documents for federal and California policy, with the original single-document manifesto preserved in the archive.
 
-## How to Contribute
+## Where To Contribute
+
+- Propose changes to [README.md](README.md) for core philosophy, structure, values, or jurisdictional framing
+- Propose changes to [docs/federal-framework.md](docs/federal-framework.md) for federal policy design
+- Propose changes to [docs/california-framework.md](docs/california-framework.md) for California policy design
+- Propose changes to [docs/basic-care-framework.md](docs/basic-care-framework.md) for the universal healthcare baseline
+- Propose changes to [docs/earned-healthcare-continuity-insurance-framework.md](docs/earned-healthcare-continuity-insurance-framework.md) for the broader earned healthcare protection layer
+- Propose changes to [docs/healthcare-framework.md](docs/healthcare-framework.md) only if the bridge between the two healthcare layers needs revision
+- Propose changes to [docs/california-report-card-site-plan.md](docs/california-report-card-site-plan.md) for the California report card site plan
+- Refer to [archive/manifesto-v1-2025-08.md](archive/manifesto-v1-2025-08.md) when comparing against the original version
+
+## How To Contribute
 
 ### 1. Issues and Discussions
-- Open an **Issue** to report problems, suggest clarifications, or propose new ideas
-- Use **Discussions** for broader conversations about policy implications or implementation strategies
+- Open an **Issue** for problems, ambiguities, or proposed changes
+- Use **Discussions** for broader debates about framing, tradeoffs, implementation, or evidence
 
 ### 2. Pull Requests
 - Fork the repository
-- Make your proposed changes to the README.md file
-- Submit a pull request with a clear description of your changes
-- Include the reasoning behind your suggestions
+- Make targeted changes to the relevant document
+- Explain what problem the change solves
+- Include the reasoning, tradeoffs, and any supporting evidence behind the proposal
 
-## Guidelines for Contributions
+## Contribution Standards
 
-### Content Standards
-- **Evidence-based**: Support policy suggestions with data, research, or precedents
-- **Constructive**: Focus on improving the framework rather than fundamental opposition
-- **Specific**: Provide concrete suggestions rather than vague critiques
-- **Non-partisan**: Keep discussions focused on policy effectiveness, not political affiliations
+- **Evidence-based**: Support factual claims and comparisons with data, research, or precedent
+- **Operational**: Prefer proposals that identify which level of government can actually carry them out
+- **Specific**: Replace vague aspirations with concrete mechanisms or defined open questions
+- **Constructive**: Aim to strengthen the framework rather than only criticize it
+- **Non-partisan**: Keep the focus on policy design, implementation, and measurable outcomes
 
-### Types of Welcome Contributions
-- **Clarifications**: Improve unclear language or explanations
-- **Data and Research**: Add supporting evidence or relevant case studies
-- **Implementation Details**: Suggest practical approaches for policy execution
-- **Economic Analysis**: Provide cost-benefit analysis or economic modeling
-- **Formatting**: Improve document structure and readability
+## High-Value Contributions
 
-### Review Process
-1. All pull requests will be reviewed for quality and alignment with framework goals
-2. Constructive feedback will be provided for improvements
-3. Approved changes will be merged and contributors will be acknowledged
+- Tightening the federal versus California split
+- Clarifying financing mechanisms and fiscal tradeoffs
+- Defining what should be universal versus targeted
+- Identifying tensions between affordability, resilience, and competitiveness
+- Improving metrics that can actually be attributed to the relevant level of government
 
-## Questions?
-Open an issue or start a discussion if you have questions about contributing or the framework itself.
+## Review Process
 
----
+1. Proposed changes will be reviewed for clarity, coherence, and fit with the framework's stated values
+2. Revisions may be requested where claims are too broad, unsupported, or operationally vague
+3. Accepted changes should make the framework more rigorous, not just longer
 
-*This is a living document designed to evolve through community input and collaborative improvement.*
+## Questions
+
+Open an issue or start a discussion if you want to challenge an assumption, test an alternative structure, or propose a new line of analysis.

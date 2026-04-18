@@ -1,205 +1,210 @@
 # The Affordable Basics Economic Framework
-## A Manifesto for Essential Needs Accessibility
+## Core Document
 
-*Version 1.0 - August 2025*
+This repository separates the framework into five primary documents:
 
----
+- A core document that explains the governing philosophy and the division of responsibilities
+- A federal companion document focused on national policy tools
+- A California companion document focused on state policy tools
+- A basic-care document for the universal healthcare baseline
+- An earned healthcare continuity insurance document for the work-earned transition major-medical layer
 
-## Executive Summary
+The previous single-document manifesto is preserved in the archive at `archive/manifesto-v1-2025-08.md`.
 
-This manifesto outlines an economic framework that makes basic necessities affordable for all Americans while enhancing global business competitiveness. By removing regulatory barriers, eliminating tariffs on essential inputs, and enabling transparent market competition in energy, raw materials, food, water, and basic healthcare, we reduce production costs across the economy. This approach strengthens both individual prosperity and America's competitive position by allowing market forces to drive down prices naturally rather than through government control.
+## Purpose
 
-## Core Principles
+The aim of this framework is simple: basic necessities should be affordable enough that households can remain stable, workers can remain productive, and businesses can compete without carrying unnecessary cost burdens through every layer of the economy.
 
-### The Foundation of Prosperity
-A society's strength is measured not by the wealth of its richest citizens, but by how accessible basic necessities are to its entire population. When fundamental needs are affordable, individuals gain economic mobility, businesses have healthier workforces, and societies experience reduced inequality and social tension.
+This is not a call for government control over every essential system. It is a framework for disciplined intervention where markets alone do not produce durable affordability, and for deregulation or tax relief where government itself is adding avoidable cost. The test is practical rather than ideological: lower the cost of essentials without hollowing out resilience, supply security, or long-run productive capacity.
 
-### The Competitive Advantage Multiplier
-Reducing costs for basic necessities creates positive economic cascades that enhance American competitiveness. Cheaper energy reduces production costs across all sectors, making American manufacturing more competitive with countries that have lower energy costs. Affordable food improves worker health outcomes and productivity while reducing wage pressure from cost-of-living increases. Accessible basic healthcare prevents economic catastrophe from medical debt while reducing employer healthcare burden, freeing capital for innovation and expansion. When businesses face lower input costs and healthier, more stable workforces, they can compete more effectively in global markets.
+The framework works at two levels at once.
 
----
+At the household level, it aims to secure baseline access to the essentials that make ordinary life possible. In healthcare, that means being explicit about the difference between a universal baseline and continuity protection against major medical risk during coverage disruption. The medical model in this repository therefore has two designed layers: `basic care`, which is the universal front-door outpatient baseline, and `earned healthcare continuity insurance`, which is the work-earned transition major-medical layer for serious non-basic costs above that floor. The simple doctrine is: basic care is universal, Medi-Cal stays primary where it already applies, and earned healthcare continuity insurance protects the household when ordinary coverage fails and neither Medi-Cal nor adequate private coverage fills the gap. The operating sequence should stay simple: `basic care first, Medi-Cal where eligible, adequate private coverage where active, bridge only when ordinary coverage fails`. In California, that continuity layer is positioned first as a bridge model rather than as a wholesale replacement for the existing public insurance structure.
 
-## The Five Pillars of Affordable Basics
+At the productive level, the framework aims to reduce avoidable costs in the sectors that determine whether energy, food, water, healthcare, and industrial capacity remain affordable over time. Those goals are related, but they are not the same and should not be treated as if they use the same policy tools.
 
-### 1. Raw Materials & Industrial Inputs: The Foundation Layer
+## How To Read This Repository
 
-**Policy Framework:**
-- **Zero tariffs** on raw materials and industrial inputs
-- **Tax exemptions** for materials used in food production and energy generation
-- **Strategic material reserves** to prevent price manipulation
+The documents should be read in this order:
 
-**Rationale:**
-Raw materials are the building blocks of everything else in the economy. Taxing or adding tariffs to iron ore, copper, agricultural fertilizers, or energy sources artificially inflates costs throughout the entire supply chain. By eliminating these artificial cost barriers nationally, American manufacturers gain immediate competitive advantages in global markets.
+1. `README.md` for the governing philosophy and jurisdictional split
+2. `docs/federal-framework.md` for national tools and constraints
+3. `docs/california-framework.md` for California execution and the Household Stability Test
+4. `docs/basic-care-framework.md` for the universal healthcare baseline
+5. `docs/earned-healthcare-continuity-insurance-framework.md` for earned healthcare continuity insurance
 
-**Industries That Benefit Most:**
-- Manufacturing (steel, automotive, electronics, machinery)
-- Construction (building materials, infrastructure development)
-- Agriculture (fertilizers, equipment, processing facilities)
-- Energy production (solar panels, wind turbines, power generation equipment)
-- Technology (semiconductors, data centers, telecommunications infrastructure)
+The core document should stay broad. The companion documents should carry the operational detail. The short bridge document at `docs/healthcare-framework.md` exists only to point readers from the general framework into the two healthcare layers: universal `basic care` and earned healthcare continuity insurance, while keeping clear that Medi-Cal remains the primary matched public program where eligibility already applies.
 
-### 2. Energy: The Economic Lifeblood
+## Why Separate Federal and California Policy
 
-**Policy Framework:**
-- **All-energy approach** supporting nuclear, natural gas, coal, wind, hydro, and solar
-- **Solar development priority** with enhanced incentives for America's untapped solar potential
-- **Agricultural energy subsidies** for food production
-- **Industrial energy exemptions** for manufacturing, data centers, and AI computing
-- **Investment tax credits** for energy infrastructure expansion
+The earlier version of this project treated all five pillars as if they lived at the same policy level. They do not.
 
-**Rationale:**
-Energy is the foundation of American economic competitiveness. When energy costs are low, American manufacturers can compete with countries that have natural energy advantages. Data centers and AI computing facilities - critical for America's technological leadership - require massive energy inputs, making affordable energy essential for maintaining our edge in artificial intelligence and cloud computing. Manufacturing becomes globally competitive when energy costs are reduced. America's vast solar potential remains largely untapped compared to other energy sources, representing enormous opportunity for cost reduction and energy independence. Supporting all energy sources while prioritizing solar development creates both immediate competitive advantages and long-term energy security.
+The federal government controls trade, tariffs, national tax policy, large financing systems, competition policy, and major parts of healthcare and energy market structure. California controls water systems, utility regulation, land use, much of the permitting environment, agricultural operating conditions, and practical delivery of many public-health functions.
 
-**Implementation Model:**
-- **Tier 1**: Agricultural operations - 50% subsidized
-- **Tier 2**: Manufacturing, data centers, and AI computing - 25% subsidized
-- **Tier 3**: Essential services (food processing, medical facilities) - 15% subsidized
-- **Tier 4**: Non-essential commercial - market rate
+If those jurisdictions are not separated, the framework becomes rhetorically broad but operationally vague. A serious policy document should name which level of government is responsible for which results.
 
-### 3. Food Production: Nutrition Security
+## Governing Principle
 
-**Policy Framework:**
-- **Zero taxes** on agricultural inputs (seeds, fertilizers, fuel, equipment)
-- **Reduced property taxes** on actively farmed land to prevent food cost inflation
-- **Domestic production incentives** prioritizing local and regional food systems
-- **Production subsidies** for staple foods (grains, vegetables, protein sources)
-- **Land use incentives** for food production over speculation
+Policy should be matched to the level of government that can actually move the cost structure.
 
-**Rationale:**
-Local and domestic food production provides superior nutrition compared to imported foods that lose vitamins, minerals, and freshness during long-distance transport and storage. Fresh produce begins losing nutritional value immediately after harvest, making proximity to consumption critical for public health. Domestic production also provides food security independence, reduces transportation costs that inflate food prices, and supports American agricultural employment. When farming inputs are tax-free, property taxes on farmland are reduced, and domestic food production is prioritized, nutritious food becomes accessible to all economic classes while strengthening America's agricultural self-sufficiency. High property taxes on agricultural land can make farming uneconomical and force reliance on lower-quality imported foods, particularly affecting small-scale and family farms that produce essential fresh food supplies.
+- Federal policy should lower the national cost floor
+- California policy should make essential systems deliver affordable outcomes in practice
+- Shared sectors should be addressed as joint agendas rather than forced into a false either-or split
 
-**Target Foods for Support:**
-- **Staple grains** (rice, wheat, corn) - domestic production prioritized
-- **Fresh vegetables and fruits** - local and regional production emphasized for maximum nutritional value
-- **Protein sources** (legumes, sustainable meat/dairy) - domestic livestock and farming operations
+This rule is what keeps the framework coherent.
 
-### 4. Water: The Most Basic Need
+## Policy Discipline
 
-**Policy Framework:**
-- **Free water for all Americans** - affordable access to clean water nationwide
-- **Infrastructure investment** in water treatment and distribution
-- **Agricultural water rights** protected and subsidized for food production
-- **Major water reclamation projects** - capture winter rain/snow before it reaches the ocean
-- **Reservoir and storage expansion** to support both urban and agricultural needs
-- **Conservation incentives** for efficient usage
+This framework distinguishes between two different kinds of commitment.
 
-**Rationale:**
-Water is literally essential for life and food production. No American should face economic hardship accessing clean water for drinking, cooking, and basic sanitation. Additionally, water scarcity in agricultural regions like the American Southwest artificially constrains food production and drives up prices. Currently, massive amounts of winter precipitation flow unused to the ocean through river systems while farms struggle with water restrictions. Strategic infrastructure investment in water reclamation and storage can simultaneously support food security and urban water needs. Making water affordable for all Americans is both economically feasible and essential for maintaining competitive advantages in food production and quality of life.
+### 1. Universal Baseline Guarantees
 
-### 5. Basic Healthcare: Primary Prevention Focus
+Some essentials should be secured at a baseline household level. In practice, that means defining a floor below which people should not fall in access to drinking water, basic sanitation, preventive care, maternal care, and other clearly bounded essentials.
 
-**Policy Framework:**
-- **National network of NPs and PAs** with standardized fee schedules
-- **Insurance-independent pricing** - same cost regardless of insurance status
-- **Free basic care** provided by Nurse Practitioners and Physician Assistants
-- **Comprehensive prenatal and natal care** - fully subsidized
-- **Preventive care** (vaccines, screenings, wellness checks) at no cost
-- **Urgent care services** available through NP/PA network for non-emergency situations
+These guarantees should be:
 
-**Scope of "Basic Healthcare":**
-- **Included**: Primary care, preventive medicine, chronic disease management, mental health counseling, reproductive health, urgent care, childbirth and natal care
-- **Excluded**: Emergency room services, specialist care (oncology, cardiology, neurology, etc.), surgery requiring specialists, advanced imaging (MRI, CT scans), elective procedures, cosmetic treatments, experimental treatments, luxury accommodations, any treatment requiring physician specialist referral
+- Clearly defined rather than open-ended
+- Simple enough to administer without creating large hidden overhead
+- Transparent about who pays and how the benefit is delivered
+- Narrow enough to remain fiscally and politically durable
 
-**Rationale:**
-Healthcare costs are the leading cause of personal bankruptcy in the United States. By establishing a national network of Nurse Practitioners and Physician Assistants with standardized pricing independent of insurance status, we eliminate price discrimination and create predictable costs. Focusing coverage on primary and urgent care through NPs and PAs is economically sustainable while preventing most health issues from becoming expensive emergencies. Emergency room services and specialist care remain expensive precisely because they handle complex cases - covering these would make the system financially unsustainable. This targeted approach ensures excellent prenatal care to support family formation while keeping basic healthcare affordable for all.
+### 2. Targeted Productive Support
 
-**Non-Basic Care Structure:**
-All healthcare services beyond the basic care scope would continue operating through private insurance providers as they do currently. However, healthcare providers would be required to charge identical prices for all services regardless of insurance status, network participation, or payment method. This transparency requirement eliminates the current system where the same procedure can cost dramatically different amounts depending on insurance coverage, creating a fair and predictable pricing structure for all Americans while maintaining the existing insurance market for complex care.
+Other policies should be targeted at the productive systems that determine long-run affordability. This includes energy infrastructure, farm inputs, industrial inputs, logistics, storage, transmission, and other sectors where high costs cascade through the rest of the economy.
 
----
+These interventions should be:
 
-## Economic Philosophy & Justification
+- Tied to measurable cost reduction or resilience goals
+- Focused on essential sectors rather than broad subsidy programs
+- Structured to avoid permanent dependence where competitive markets can function
+- Evaluated by whether they lower downstream costs for households and productive sectors
 
-### Market-Oriented Social Investment
+This distinction matters. A household baseline guarantee is justified by human need and social stability. Targeted productive support is justified by cost reduction, resilience, and competitiveness. The framework is stronger when it says which argument it is making.
 
-This framework is not anti-market but rather pro-market efficiency. By removing artificial cost barriers in essential sectors, we:
-- **Reduce regulatory burden** on productive activities
-- **Eliminate tax distortions** in critical supply chains  
-- **Create competitive advantages** for domestic production
-- **Enable entrepreneurship** by reducing basic living costs
+## The Five Pillars, Reframed
 
-### The Cost-Benefit Analysis
+The original five pillars remain useful, but they now need to be understood through jurisdiction.
 
-**Costs:**
-- Government expenditure on subsidies and tax foregone revenue
-- Initial infrastructure investment
-- Administrative oversight systems
+### 1. Raw Materials and Industrial Inputs
 
-**Benefits:**
-- Reduced poverty and homelessness (reduced social services costs)
-- Improved public health (reduced healthcare spending)
-- Increased economic mobility (higher tax revenue from prosperity)
-- Enhanced competitiveness (lower production costs)
-- Social stability (reduced inequality-driven conflict)
+This is primarily a federal pillar. Tariffs, trade treatment, strategic reserves, and national tax rules determine whether essential sectors are paying inflated input costs before states ever act.
 
-### International Competitiveness
+### 2. Energy
 
-Countries implementing versions of this framework (Denmark, Germany, Singapore) consistently rank highest in:
-- Global competitiveness indices
-- Quality of life measurements  
-- Economic mobility metrics
-- Innovation capacity
+This is a joint pillar. Federal policy shapes capital formation, transmission, and national supply conditions. California shapes retail affordability, utility incentives, permitting, and local reliability.
 
----
+### 3. Food Production
 
-## Addressing Common Objections
+This is also a joint pillar. Federal policy shapes agricultural finance, trade, and logistics. California shapes water access, farmland viability, regional processing, and state-level operating costs.
 
-### "This is too expensive for government budgets"
-**Response**: The framework pays for itself through increased economic productivity, reduced social costs, and higher tax revenues from a more prosperous population. Countries with similar policies (Nordic model, Singapore) have strong fiscal positions.
+### 4. Water
 
-### "Markets should determine prices, not government"
-**Response**: This framework eliminates government-imposed costs (tariffs, taxes on essentials) rather than imposing price controls. It's about removing barriers, not creating them.
+This is primarily a California pillar in this version of the framework. Water affordability and water security depend on physical systems, storage, conveyance, groundwater management, and state-level operating choices.
 
-### "This reduces work incentives"
-**Response**: By making basics affordable rather than free, and by focusing on inputs rather than outputs, the framework maintains work incentives while enabling economic mobility.
+### 5. Healthcare
 
-### "International competitiveness concerns"
-**Response**: Countries with strong social infrastructure and low basic living costs consistently outperform in global competitiveness rankings. Lower production costs and healthier workforces enhance competitiveness.
+This is a joint pillar, but with a divided role. Federal policy shapes payment architecture and national financing. California can do more on access design, benefit administration, and provider participation than on full system redesign.
 
----
+Within the healthcare pillar, the framework now makes a second distinction that matters just as much: between the universal baseline and the continuity layer that protects households when ordinary coverage breaks down. `Basic care` is the universal access and stabilization layer for ordinary outpatient needs, pregnancy, childbirth, and core pediatric care. `Earned healthcare continuity insurance` is the work-earned transition major-medical bridge for emergency, hospital, specialty, and other serious non-basic costs during periods of coverage disruption. In the California version, that bridge is designed around a simple earned bank rather than a full system rewrite. But neither layer should be mistaken for a plan to rewrite Medi-Cal from scratch. Medi-Cal remains the primary public insurance platform for eligible Californians, and the framework should build around that reality rather than deny it. The detailed medical model is split between `docs/basic-care-framework.md` and `docs/earned-healthcare-continuity-insurance-framework.md`.
 
-## Measuring Success
+## Federal Priorities
 
-### Key Performance Indicators
+The federal framework should focus on:
 
-**Economic Metrics:**
-- Basic necessities affordability index (percentage of median income)
-- Poverty reduction rates
-- Economic mobility measurements
-- Business formation and employment rates
+- Lowering essential input costs through trade and tax policy
+- Supporting national energy abundance and reliability
+- Improving resilience in food and industrial supply chains
+- Making healthcare pricing and payment structures more transparent and less distortive
+- Financing large-scale infrastructure where national coordination is required
 
-**Social Metrics:**
-- Health outcomes and life expectancy
-- Educational attainment and completion rates
-- Food security measurements
+The federal government should not attempt to centrally run local delivery systems it cannot manage well. Its role is to shape incentives, reduce structural cost burdens, and support national resilience.
 
-**Competitiveness Metrics:**
-- International ranking improvements
-- Foreign investment attraction
-- Export competitiveness in key sectors
-- Innovation and productivity growth
+For the detailed federal agenda, see `docs/federal-framework.md`.
 
-### Target Outcomes (10-year horizon)
-- Basic necessities consume <30% of median household income
-- Universal access to preventive healthcare
-- 90% reduction in medical bankruptcy
-- 50% improvement in economic mobility indices
-- Top-10 global competitiveness ranking
+## California Priorities
 
----
+The California framework should focus on:
 
-## Conclusion: A Framework for Transparent Competition and Shared Prosperity
+- Water security and baseline household access
+- Lower retail energy burdens and better utility design
+- Viable food production and regional supply capacity
+- Practical access to primary, preventive, and maternal care
+- State tax, permitting, and procurement reform where these systems add avoidable cost
 
-The Affordable Basics Economic Framework represents a pragmatic approach to ensuring human dignity while enhancing American economic competitiveness through transparency, deregulation, and market enablement. By removing government-imposed barriers in the foundational sectors that affect everyone—energy, food, water, healthcare, and raw materials—we create conditions for both broad-based prosperity and global competitive advantage.
+California should not claim powers it does not have. But it should use the powers it does have with more discipline and a clearer affordability standard.
 
-This framework is fundamentally about increasing transparency, eliminating regulatory obstacles, and enabling true market competition rather than government control. In each sector, we expose hidden costs, remove artificial barriers, and allow competitive forces to drive prices down naturally. Energy markets become more transparent and competitive. Agricultural markets operate with fewer regulatory burdens. Healthcare pricing becomes clear and predictable. Water infrastructure operates efficiently without bureaucratic obstacles.
+For the detailed California agenda, see `docs/california-framework.md`.
 
-The result is not government intervention, but government stepping back to let markets work while ensuring that essential sectors operate with maximum transparency and minimum regulatory friction. When businesses can access inputs at true market prices without regulatory markup, and when consumers can see real costs without hidden subsidies to incumbent players, everyone benefits from genuine market efficiency.
+## Shared Agenda
 
-This approach offers a distinctly American solution: using transparency and deregulation to drive down costs while enabling competition to flourish. Rather than choosing between unregulated markets that may leave some behind and over-regulated systems that stifle innovation, we choose transparent, competitive markets that serve both human needs and economic efficiency.
+Some outcomes require alignment between Washington and Sacramento:
 
-Most importantly, this framework recognizes that in a competitive economy, basic necessities should be subject to the same market forces that drive innovation and efficiency in other sectors. When we eliminate regulatory barriers, expose pricing transparency, and enable true competition in essential sectors, we unleash both human potential and American competitive advantages simultaneously.
+- Energy affordability requires federal capital and system support plus California delivery reform
+- Food affordability requires federal agricultural and trade reform plus California water and land-use competence
+- Basic healthcare requires federal payment support plus California network and access design
 
----
+The framework should say that plainly. Shared problems should be treated as shared responsibilities.
 
-*This manifesto serves as a framework for policy development and can be adapted to specific national and regional contexts while maintaining its core principles of making basic necessities accessible to all citizens.*
+## Values
+
+This framework should stay inside a few clear values.
+
+**Practicality**: prefer operationally real policies over broad promises that no level of government can actually deliver.
+
+**Transparency**: make costs, subsidies, and tradeoffs visible rather than hiding them in opaque systems.
+
+**Resilience**: avoid reducing prices in ways that create future supply weakness, fragility, or dependence.
+
+**Affordability**: judge policy by whether it materially lowers the burden of essentials on households and productive sectors.
+
+**Competitiveness**: treat affordability not only as a social goal but also as a productive economic advantage.
+
+## Decision Rules
+
+The values above need operating rules or they become slogans.
+
+### 1. The California Household Stability Test
+
+California should be judged by whether it makes stable ordinary life more affordable, more reliable, and easier to sustain through the essential systems people depend on. In this framework, that test is applied through four dimensions: affordability, reliability, friction, and productive durability.
+
+The full definition, presumption rule, policy checklist, and report-card implementation live in `docs/california-framework.md`.
+
+### 2. Baseline before expansion
+
+When promising support for households, define the baseline first. The framework should prefer a durable floor for essential access over broad promises that cannot be financed or administered well.
+
+### 3. Affordability before process when process adds cost without commensurate public value
+
+Review, permitting, and compliance rules are justified only when they produce a real public benefit. When process mainly creates delay, scarcity, or cost inflation in essential systems, the framework should favor reform.
+
+### 4. Resilience before fragile low prices
+
+The cheapest short-run option is not always the best one. The framework should reject policies that lower prices temporarily by increasing strategic dependence, bottlenecks, or future supply fragility.
+
+### 5. Transparency before hidden cross-subsidies
+
+If a policy depends on hidden transfers, opaque pricing, or disguised cost shifting, it should be treated with suspicion even if it produces short-run relief.
+
+### 6. Jurisdiction before rhetoric
+
+No level of government should promise what it cannot actually deliver. The framework should stay disciplined about which actor controls which lever.
+
+## What This Framework Still Needs
+
+This core document is intentionally not the final word. It still needs:
+
+- Stronger treatment of tradeoffs where values conflict
+- More precise success metrics tied to each level of government
+- Supporting evidence and examples added carefully rather than rhetorically
+
+Financing choices should be developed in the federal and California companion documents, where the actual tools and constraints are different.
+
+## Repository Structure
+
+- `README.md`: core document
+- `docs/federal-framework.md`: federal policy agenda
+- `docs/california-framework.md`: California policy agenda
+- `docs/basic-care-framework.md`: universal healthcare baseline
+- `docs/earned-healthcare-continuity-insurance-framework.md`: earned healthcare continuity insurance
+- `docs/healthcare-framework.md`: bridge document linking the two healthcare layers
+- `archive/manifesto-v1-2025-08.md`: archived original version
